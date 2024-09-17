@@ -5,8 +5,9 @@ The notebooks in this repository are recipes for energy and climate modelers. Th
 The notebooks are used as training material for the [Next Generation Challenges in Energy-Climate Modelling Workshop](https://research.reading.ac.uk/met-energy/next-generation-challenges-workshop/next-generation-energy-climate-modelling-2024/)
 
 Authors: 
-HB
-MDF
+EF: [Ekaterina Fedotova](https://github.com/ekatef)
+HB: Hanna Bloomfield
+MDF: [Matteo De Felice](https://github.com/matteodefelice)
 
 # Climate
 
@@ -21,6 +22,7 @@ MDF
 *   E.001: Creating your first power system model (MDF)
 *   E.002: Extending E.001 with some additional demand flexibility (MDF)
 *   E.003: Extending this model to include two countries (MDF)
+*   E.004: Investigation of a simplified model for Uruguay (EF)
 
 # Energy
 
