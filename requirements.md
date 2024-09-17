@@ -20,3 +20,7 @@ If you are using Google Colab you can install the Python modules using `pip` and
 !pip install cfgrib
 !apt-get -qq install -y libeccodes0
 ```
+or to install the CBC solver:
+```
+!apt-get install -y -qq coinor-cbc # open source solver
+```

@@ -9,7 +9,7 @@ EF: [Ekaterina Fedotova](https://github.com/ekatef)
 HB: Hanna Bloomfield
 MDF: [Matteo De Felice](https://github.com/matteodefelice)
 
-# Climate
+# List of notebooks
 
 *   C.001: Load climate data and subset (HB)
 *   C.002: Extract and average data (HB)
@@ -24,13 +24,8 @@ MDF: [Matteo De Felice](https://github.com/matteodefelice)
 *   E.003: Extending this model to include two countries (MDF)
 *   E.004: Investigation of a simplified model for Uruguay (EF)
 
-# Energy
+# Usage
 
-**Learning Objectives**
-*  Become familiar with the basic principles behind power system modelling
-* Understand the difference between operation and planning models.
-* Learn how to construct a simple power system model using the PyPSA framework
-* Explore how this model could be adapted in the future to represent a more realistic system setup
-* Appreciate the importance of meteorological variability when thinking about power systems modelling.
+The notebooks use only open source tools. The file [`requirements.md`](requirements.md) provides a list of the Python modules needed and some instructions to run them on Google Colab.
 
-
+The data files used in the notebooks can be downloaded running the notebook [`download.ipynb`](data/download.ipynb) in the `data` folder.
