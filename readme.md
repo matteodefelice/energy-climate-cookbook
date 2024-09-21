@@ -29,3 +29,6 @@ MDF: [Matteo De Felice](https://github.com/matteodefelice)
 The notebooks use open-source tools only. The file [`requirements.md`](requirements.md) provides a list of the Python modules needed and some instructions to run them on Google Colab.
 
 The data files used in the notebooks can be downloaded running the notebook [`download.ipynb`](data/download.ipynb) in the `data` folder.
+
+# License
+AGPL and CC-BY-4.0
