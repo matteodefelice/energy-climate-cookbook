@@ -9,13 +9,17 @@ EF: [Ekaterina Fedotova](https://github.com/ekatef)
 HB: Hanna Bloomfield
 MDF: [Matteo De Felice](https://github.com/matteodefelice)
 
+# Education materials
+
+[Here](Education%20materials.md) you can find a list of education material from the Next Generation Energy Climate Modelling workshop.
+
 # List of notebooks
 
 *   C.001: Load climate data and subset (HB)
 *   C.002: Extract and average data (HB)
 *   C.003: Converting from wind speed to wind power (HB)
 *   C.004: Creating more complex maps
-*   C.005: How to apply a country mask (land mask, weighted mask): (?) **to check**
+*   C.005: How to apply a country mask (land mask, weighted mask): 
 *   C.006: Computing NAO EOF using `eofs` (MDF) **to edit**
 *   C.007: Computing NAO EOF using `xeofs` (MDF) **to edit**
 *   C.008: wind speed time-series data compared with ENTSO-E wind power production **not ready**
