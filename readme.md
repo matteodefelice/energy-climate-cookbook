@@ -22,7 +22,7 @@ MDF: [Matteo De Felice](https://github.com/matteodefelice)
 *   C.005: How to apply a country mask (land mask, weighted mask): 
 *   C.006: Computing NAO EOF using `eofs` (MDF) 
 *   C.007: Computing NAO EOF using `xeofs` (MDF)
-*   C.008: wind speed time-series data compared with ENTSO-E wind power production **not ready**
+*   C.008: wind speed time-series data compared with ENTSO-E wind power production (MDF)
 *   E.001: Creating your first power system model (MDF)
 *   E.002: Extending E.001 with some additional demand flexibility (MDF)
 *   E.003: Extending this model to include two countries (MDF)
