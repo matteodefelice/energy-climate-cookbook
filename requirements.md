@@ -14,7 +14,7 @@ pip install xarray
 ```
 or mamba:
 ```
-mamba install -c conda-forge xarray
+mamba env update -n cookbook --file env.yml
 ```
 
 ## Needed packages
