@@ -91,9 +91,9 @@ If you already have a bit more knowledge some advanced learning materials are gi
 
 ### Meteorology
 
-Basics of climate variability and change https://www.youtube.com/watch?v=gZAemBi3RA8
+Basics of climate variability and change [South Central Climate Adaptation Science Center](https://www.youtube.com/watch?v=gZAemBi3RA8)
 
-An Introduction to Atmospheric Dynamics lecture course is given here: https://www.youtube.com/channel/UCrm3Nkw_0wPJxjOolmZe5iA
+An Introduction to Atmospheric Dynamics lecture course is given [here](https://www.youtube.com/channel/UCrm3Nkw_0wPJxjOolmZe5iA)
 
 ### Energy
 
@@ -103,7 +103,7 @@ The OpenMod learning materials: https://wiki.openmod-initiative.org/wiki/Learnin
 
 Sustainable Energy Lecture Course: covers a lot of useful energy related topics https://www.youtube.com/playlist?list=PLxTFLzYie40pndQG7QBVczKNZST3dGenQ
 
-Open energy system modelling for climate scientists and others https://www.youtube.com/watch?v=-dk3CVzaGew
+Open energy system modelling for climate scientists and others [A. Hilbers et al,  S2S4E+OpenMod workshop](https://www.youtube.com/watch?v=-dk3CVzaGew)
 
 ### Energy Meteorology
 A selection of books on the topic of energy meteorology can be found here: https://www.wemcouncil.org/wp/resources/#1569332431001-52a5603d-0e9d
