@@ -7,30 +7,50 @@ We have tried to limit these to bitesize information videos (~5 minutes). Some u
 Note: The links to these external resources are provided on an ‘as is’ basis. While it is hoped that you may find the links useful when beginning to explore topics in energy-meteorology before and after the workshop, this document is not intended to be an exhaustive list or resources, nor does inclusion on the list necessarily imply an endorsement of the content.
  
 ## Meteorology General:
-An introduction to weather and climate: https://www.youtube.com/watch?v=lB0dpDNcXpY
-How does the climate system work? https://www.youtube.com/watch?v=lrPS2HiYVp8&list=PLGVVqeJodR_bqVT3iXTRNQ9gIUjuXIEvK&index=21
-What is the jet stream and how does it work? https://www.youtube.com/watch?v=huweohIh_Bw&list=PLGVVqeJodR_bqVT3iXTRNQ9gIUjuXIEvK&index=24
-An introduction to the Global circulation: 3 part YouTube introduction by the UK Met Office. [link] What is ElNino? https://www.youtube.com/watch?v=7fd03fBRsuU
-What is the North Atlantic Oscillation? https://www.youtube.com/watch?v=KOYJG7j4Iy8 
+
+An introduction to weather and climate: [ESA, Weather vs. Climate | Meet the experts](https://www.youtube.com/watch?v=lB0dpDNcXpY)
+
+How does the climate system work? [Met Office - UK Weather](https://www.youtube.com/watch?v=lrPS2HiYVp8&list=PLGVVqeJodR_bqVT3iXTRNQ9gIUjuXIEvK&index=21)
+
+What is the jet stream and how does it work? [Met Office - UK Weather](https://www.youtube.com/watch?v=huweohIh_Bw&list=PLGVVqeJodR_bqVT3iXTRNQ9gIUjuXIEvK&index=24)
+
+An introduction to the Global circulation: 
+Met Office - Learn About Weather
+* [Part 1](https://www.youtube.com/watch?v=7fd03fBRsuU)
+* [Part 2](https://www.youtube.com/watch?v=xqM83_og1Fc)
+* [Part 3](https://www.youtube.com/watch?v=PDEcAxfSYaI)
+
+What is ElNino? [Met Office - UK Weather](https://www.youtube.com/watch?v=WPA-KpldDVc&list=PLGVVqeJodR_bqVT3iXTRNQ9gIUjuXIEvK&index=17)
+
+What is the North Atlantic Oscillation? [Met Office - UK Weather](https://www.youtube.com/watch?v=KOYJG7j4Iy8)
 
 ### Past meteorological data
-What is a reanalysis dataset? https://www.youtube.com/watch?v=FAGobvUGl24
-Why do we use long time series of data in energy-meteorology? https://www.youtube.com/watch?v=EPlUxH_om0w&list=PLGBIeEHEJD9HDXpS5F244TNeSWoCKBtGc&index=6
-Background meteorological datasets used in energy-meteorology (weather forecasts, reanalysis and climate models (first 20 mins of video - long introduction!). https://www.youtube.com/watch?v=zp320W6xCAk&list=PLGBIeEHEJD9HDXpS5F244TNeSWoCKBtGc&index=2
+
+What is a reanalysis dataset? [Copernicus ECMWF](https://www.youtube.com/watch?v=FAGobvUGl24)
+
+Why do we use long time series of data in energy-meteorology? [EMP-E 2020](https://www.youtube.com/watch?v=EPlUxH_om0w&list=PLGBIeEHEJD9HDXpS5F244TNeSWoCKBtGc&index=6)
+
+Background meteorological datasets used in energy-meteorology (weather forecasts, reanalysis and climate models (first 20 mins of video - long introduction!) [Supergen Energy Networks Hub](https://www.youtube.com/watch?v=zp320W6xCAk&list=PLGBIeEHEJD9HDXpS5F244TNeSWoCKBtGc&index=2)
 
 
 ### Future climate data
-What is climate change? https://www.youtube.com/watch?v=ffjIyms1BX4
+
+What is climate change? [Be Smart](https://www.youtube.com/watch?v=ffjIyms1BX4)
 
 <!-- TODO an update is needed -->
 Reflections on 2020, the hottest year ever https://www.youtube.com/watch?v=14hS-iTNLp8
-An introduction to climate projections: Covers what a climate model is, how it differs from a weather forecasting model. Some examples of future projections data and the uncertainties associated with them. https://www.youtube.com/watch?v=GU5kx1silwE&list=PLB7XYEK5KkhqbkO7YyhfgdrWVQ2MBe_mJ&index=2 (longer video)
-Uncertainty in future climate change projections [link] This is a 4-part video series looking at the meteorological uncertainties https://www.youtube.com/watch?v=RUrR6zDm8j0&list=PLB7XYEK5KkhpfOZUaoi3ka61oeURq2WMc&index=14
+
+An introduction to climate projections: Covers what a climate model is, how it differs from a weather forecasting model. Some examples of future projections data and the uncertainties associated with them. [Copernicus ECMWF](https://www.youtube.com/watch?v=GU5kx1silwE&list=PLB7XYEK5KkhqbkO7YyhfgdrWVQ2MBe_mJ&index=2) (longer video)
+
+Uncertainty in future climate change projections [link] This is a 4-part video series looking at the meteorological uncertainties [Copernicus ECMWF](https://www.youtube.com/watch?v=RUrR6zDm8j0&list=PLB7XYEK5KkhpfOZUaoi3ka61oeURq2WMc&index=14)
 
 ### Weather forecasts
-How do meteorologists predict the weather? https://www.youtube.com/watch?v=LlWCStJ3BCU 
-How do we monitor the weather from space? https://www.youtube.com/watch?v=zfVeB4s8WWk&list=PLOQg9n6Apif2QUccFbT0RQoT08ggibEoD&index=2 
-What is data assimilation? https://www.youtube.com/watch?v=YPAWYjPf_Pk
+
+How do meteorologists predict the weather? [ABC Science](https://www.youtube.com/watch?v=LlWCStJ3BCU) 
+
+How do we monitor the weather from space? [EUMETSAT](https://www.youtube.com/watch?v=zfVeB4s8WWk&list=PLOQg9n6Apif2QUccFbT0RQoT08ggibEoD&index=2)
+
+What is data assimilation? [DARE Project](https://www.youtube.com/watch?v=YPAWYjPf_Pk)
  
 ## Energy systems
 What is an energy system? https://www.youtube.com/watch?v=-HAux6J2YeY 
