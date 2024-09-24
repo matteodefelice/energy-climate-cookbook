@@ -121,5 +121,4 @@ ECEM demonstrator: http://ecem.wemcouncil.org/ This also shows weather data of a
 Raw climate data can be downloaded from the Copernicus Climate data store, there are instructions for how to use their python API https://cds.climate.copernicus.eu/
 
 If you’re interested in creating your own seasonal forecasts' multi-model with Python and C3S the this could be useful: http://www.matteodefelice.name/post/c3s-multimodel/
-If you would like to try running your own energy systems model with a simple setup: https://github.com/ahilbers/calliope
-    
+If you would like to try running your own energy systems model with a simple setup: https://github.com/calliope-project/calliope
