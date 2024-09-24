@@ -26,7 +26,7 @@ Met Office - Learn About Weather
 * [Part 2](https://www.youtube.com/watch?v=xqM83_og1Fc)
 * [Part 3](https://www.youtube.com/watch?v=PDEcAxfSYaI)
 
-What is ElNino? [Met Office - UK Weather](https://www.youtube.com/watch?v=WPA-KpldDVc&list=PLGVVqeJodR_bqVT3iXTRNQ9gIUjuXIEvK&index=17)
+What is El Niño? [Met Office - UK Weather](https://www.youtube.com/watch?v=WPA-KpldDVc&list=PLGVVqeJodR_bqVT3iXTRNQ9gIUjuXIEvK&index=17)
 
 What is the North Atlantic Oscillation? [Met Office - UK Weather](https://www.youtube.com/watch?v=KOYJG7j4Iy8)
 
