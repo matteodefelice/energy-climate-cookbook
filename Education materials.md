@@ -90,23 +90,31 @@ Assisting energy planning with bias corrected energy projections [Copernicus ECM
 If you already have a bit more knowledge some advanced learning materials are given below
 
 ### Meteorology
+
 Basics of climate variability and change https://www.youtube.com/watch?v=gZAemBi3RA8
+
 An Introduction to Atmospheric Dynamics lecture course is given here: https://www.youtube.com/channel/UCrm3Nkw_0wPJxjOolmZe5iA
 
 ### Energy
+
 Sustainable Energy: Design a renewable future online course https://online-learning.tudelft.nl/courses/sustainable-energy-design-a-renewable-future/
+
 The OpenMod learning materials: https://wiki.openmod-initiative.org/wiki/Learning_materials
+
 Sustainable Energy Lecture Course: covers a lot of useful energy related topics https://www.youtube.com/playlist?list=PLxTFLzYie40pndQG7QBVczKNZST3dGenQ
+
 Open energy system modelling for climate scientists and others https://www.youtube.com/watch?v=-dk3CVzaGew
 
 ### Energy Meteorology
 A selection of books on the topic of energy meteorology can be found here: https://www.wemcouncil.org/wp/resources/#1569332431001-52a5603d-0e9d
 
-The current challenges in energy are outlined in a summary of a recent meeting of experts. A list of useful books on the topic are given here:
-
 ## Opportunities to Download weather, climate and energy data.
-There are loads of time series of data available out there that you can download here https://forum.openmod-initiative.org/t/freely-available-datasets-of-energy-variables/2291 and start to play with. Or if for now you’d rather just look at some data here are some websites which allow you to explore climate and energy data:
-TealTool: https://tealtool.earth/ This is the best starting point for visualising climate data relevant for energy systems modelling. TealTool is a free climate data tool designed to raise awareness about climate change. You can look at national level weather data from across the globe and look at different timescales
+There are loads of time series of data available out there that you can download here https://forum.openmod-initiative.org/t/freely-available-datasets-of-energy-variables/2291 and start to play with. 
+
+Or if for now you’d rather just look at some data here are some websites which allow you to explore climate and energy data:
+TealTool: https://tealtool.earth/ This is the best starting point for visualising climate data relevant for energy systems modelling. TealTool is a free climate data tool designed to raise awareness about climate change.
+
+You can look at national level weather data from across the globe and look at different timescales
 ECEM demonstrator: http://ecem.wemcouncil.org/ This also shows weather data of a present and future climate. The difference from the TealTool is you can also look at energy variables (e.g. electricity demand, wind power, solar power and hydropower.) The ECEM demonstrator is limited to over Europe.
 
 <!-- TODO Update for  -->
