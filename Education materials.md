@@ -1,8 +1,8 @@
 # Energy-meteorology education materials
 
-## The first version of the list was prepared for the Next Generation Challenges in Energy Climate Modelling Workshop, 2021
+## Prepared for the Next Generation Challenges in Energy Climate Modelling Workshop, 2021
 
-**Lead by Hannah Bloomfield, Katharina Gruber and Jan Wohland, with support from the conference organizing committee**
+### Lead by Hannah Bloomfield, Katharina Gruber and Jan Wohland, with support from the conference organizing committee
 
 The global need to reverse the damage to the planet done by humans over multiple centuries is provoking a rapid change in the way we interact with the planet. One of the main challenges here is a change in how national energy systems operate. Generally these systems are attempting to reduce their reliance of fossil fuels (like coal, oil and natural gas), which release green-house gases including carbon dioxide. These green-house gases are very damaging to the planet, and a leading cause of global warming. Instead of using fossil fuels many nations are turning instead to renewable electricity generation, powered by natural resources such as wind, sunshine or water. This has led to the development of a new scientific discipline - energy meteorology!
 
