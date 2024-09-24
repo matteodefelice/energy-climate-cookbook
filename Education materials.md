@@ -57,23 +57,34 @@ How do we monitor the weather from space? [EUMETSAT](https://www.youtube.com/wat
 What is data assimilation? [DARE Project](https://www.youtube.com/watch?v=YPAWYjPf_Pk)
  
 ## Energy systems
-What is an energy system? https://www.youtube.com/watch?v=-HAux6J2YeY 
-Overview of electric power systems https://www.youtube.com/watch?v=Ul1ZlxAKsh8
+
+What is an energy system? [Teaching Energy Modelling](https://www.youtube.com/watch?v=-HAux6J2YeY)
+
+Overview of electric power systems [EnergyX](https://www.youtube.com/watch?v=Ul1ZlxAKsh8)
 
 ### Energy system transitions
-Understanding the energy transition https://www.youtube.com/watch?v=U2dUwmXMLpw
-How might energy systems change by 2050 https://www.youtube.com/watch?v=-k6c_z8YfxQ
-Do we need nuclear energy to stop climate change? https://www.youtube.com/watch?v=EhAemz1v7dQ&list=PLFs4vir_WsTyXrrpFstD64Qj95vpy-yo1
-Is it too late to stop climate change? https://www.youtube.com/watch?v=wbR-5mHI6bo
-Can 100% renewable energy power the world? https://www.youtube.com/watch?v=RnvCbquYeIM
-European energy grids: Future plans for electrification and flexibility https://www.youtube.com/watch?v=EnsMjlalukk
+
+Understanding the energy transition [ETIP SNET](https://www.youtube.com/watch?v=U2dUwmXMLpw)
+
+How might energy systems change by 2050 [Teresa Waddington](https://www.youtube.com/watch?v=-k6c_z8YfxQ)
+
+Do we need nuclear energy to stop climate change? [Kurzgesagt](https://www.youtube.com/watch?v=EhAemz1v7dQ&list=PLFs4vir_WsTyXrrpFstD64Qj95vpy-yo1)
+
+Is it too late to stop climate change? [Kurzgesagt](https://www.youtube.com/watch?v=wbR-5mHI6bo)
+
+Can 100% renewable energy power the world? [TED-Ed](https://www.youtube.com/watch?v=RnvCbquYeIM)
+
+<!-- European energy grids: Future plans for electrification and flexibility https://www.youtube.com/watch?v=EnsMjlalukk   -- video is not available anymore-->
 
 ### Weather dependence in power systems
-The use of weather data in power systems modelling https://www.youtube.com/watch?v=zp320W6xCAk&list=PLGBIeEHEJD9HDXpS5F244TNeSWoCKBtGc&index=2
+
+The use of weather data in power systems modelling [Supergen Energy Networks Hub](https://www.youtube.com/watch?v=zp320W6xCAk&list=PLGBIeEHEJD9HDXpS5F244TNeSWoCKBtGc&index=2)
 
 ### Energy systems models
-Energy system models explained https://www.youtube.com/watch?v=QGW73VHjJFQ
-Assisting energy planning with bias corrected energy projections https://www.youtube.com/watch?v=fEKE64qeUFE&list=PLB7XYEK5KkhqbkO7YyhfgdrWVQ2MBe_mJ&index=11 (longer video)
+
+Energy system models explained [OpenMod-initiative](https://www.youtube.com/watch?v=QGW73VHjJFQ)
+
+Assisting energy planning with bias corrected energy projections [Copernicus ECMWF](https://www.youtube.com/watch?v=fEKE64qeUFE&list=PLB7XYEK5KkhqbkO7YyhfgdrWVQ2MBe_mJ&index=11) (longer video)
 
 ## Advanced Learning Resources
 If you already have a bit more knowledge some advanced learning materials are given below
