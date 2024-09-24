@@ -43,8 +43,9 @@ Background meteorological datasets used in energy-meteorology (weather forecasts
 
 What is climate change? [Be Smart](https://www.youtube.com/watch?v=ffjIyms1BX4)
 
-<!-- TODO an update is needed -->
-Reflections on 2020, the hottest year ever https://www.youtube.com/watch?v=14hS-iTNLp8
+2023: the world's hottest year on record, recapped [
+Dr Gilbz
+](https://www.youtube.com/watch?v=zNPguYmPxls)
 
 An introduction to climate projections: Covers what a climate model is, how it differs from a weather forecasting model. Some examples of future projections data and the uncertainties associated with them. [Copernicus ECMWF](https://www.youtube.com/watch?v=GU5kx1silwE&list=PLB7XYEK5KkhqbkO7YyhfgdrWVQ2MBe_mJ&index=2) (longer video)
 
