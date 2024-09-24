@@ -119,8 +119,7 @@ TealTool: https://tealtool.earth/ This is the best starting point for visualisin
 You can look at national level weather data from across the globe and look at different timescales
 ECEM demonstrator: http://ecem.wemcouncil.org/ This also shows weather data of a present and future climate. The difference from the TealTool is you can also look at energy variables (e.g. electricity demand, wind power, solar power and hydropower.) The ECEM demonstrator is limited to over Europe.
 
-<!-- TODO Update for  -->
-Raw climate data can be downloaded from the Copernicus Climate data store, there are instructions for how to use their python API https://cds.climate.copernicus.eu/
+Raw climate data can be downloaded from the Copernicus Climate data store, there are instructions for how to use their python API https://cds-beta.climate.copernicus.eu/
 
 If you’re interested in creating your own seasonal forecasts' multi-model with Python and C3S the this could be useful: http://www.matteodefelice.name/post/c3s-multimodel/
 
