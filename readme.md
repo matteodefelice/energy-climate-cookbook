@@ -4,7 +4,9 @@ The notebooks in this repository are recipes for energy and climate modelers. Th
 
 The notebooks have been used as training material for the [Next Generation Challenges in Energy-Climate Modelling Workshop](https://research.reading.ac.uk/met-energy/next-generation-challenges-workshop/next-generation-energy-climate-modelling-2024/)
 
-Authors: [Ekaterina Fedotova](https://github.com/ekatef) (EF), Hanna Bloomfield (HB), [Matteo De Felice](https://github.com/matteodefelice) (MDF)
+Main contributors: [Ekaterina Fedotova](https://github.com/ekatef) (EF), [James Fallon](https://github.com/jfallon1997), [Matteo De Felice](https://github.com/matteodefelice) 
+
+Notebook authors: [Ekaterina Fedotova](https://github.com/ekatef) (EF), Hanna Bloomfield (HB), [Matteo De Felice](https://github.com/matteodefelice) (MDF)
 
 # Education materials
 
