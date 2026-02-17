@@ -4,17 +4,13 @@ To run these Jupyter notebooks, you need a Python installation on your system (W
 
 An example with mamba:
 ```
-mamba create --name cookbook python=3.12
-mamba activate cookbook
-```
+mamba env create -n cookbook --file env.yml```
 
 The packages can be installed both using `pip`:
 ```
 pip install xarray
 ```
 or mamba:
-```
-mamba env update -n cookbook --file env.yml
 ```
 
 ## Needed packages
