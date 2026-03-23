@@ -166,7 +166,27 @@ def pv_capacity_factor(G, T_air, gamma=-0.005, NOCT=45.0):
     CF = (G / G_STC) * (1 + gamma * (T_cell - T_STC))
     return CF.clip(0, 1)  # Ensure capacity factor is between 0 and 1
 
-
+def water_cooling_efficiency(T_air):
+    """
+    Simple linear model for water cooling efficiency based on air temperature.
+    Efficiency decreases as air temperature rises, due to reduced heat transfer. 
+    From page 35: https://joint-research-centre.ec.europa.eu/document/download/4439ed82-8645-498e-820c-238ce0ff516c_en?filename=pesetaiv_task_4_energy_final_report.pdf
+    Parameters:
+    T_air : near-surface air temperature (°C)
+    Returns:
+    efficiency : cooling efficiency (0-1)
+    """
+    T = np.asarray(T_air)
+    return np.where(
+        T <= 26, 100,
+        np.where(
+            T <= 31, 100 - 7 * (T - 26),
+            np.where(
+                T <= 33, 65 - 32.5 * (T - 31),
+                0
+            )
+        )
+    ) / 100
 # ─────────────────────────────────────────────
 # Example usage
 # ─────────────────────────────────────────────
