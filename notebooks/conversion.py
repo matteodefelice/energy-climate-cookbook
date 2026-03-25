@@ -88,7 +88,7 @@ def diurnal_multiplier(index: pd.DatetimeIndex) -> pd.Series:
 
 
 # ─────────────────────────────────────────────
-# Full pipeline: temperature → normalized demand
+# Method similar to Demand.ninja (Staffell et al., Nature Energy, 2024)
 # ─────────────────────────────────────────────
 
 def temperature_to_demand(
