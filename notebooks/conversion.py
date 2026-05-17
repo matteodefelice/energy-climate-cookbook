@@ -187,6 +187,108 @@ def water_cooling_efficiency(T_air):
             )
         )
     ) / 100
+
+def kaplan_efficiency(q):
+    """
+    Capture dependency of the turbine efficiency on the inflow
+
+    Source: Yildiz, V., Brown, S. F., & Rougé, C. (2024). 
+    Importance of variable turbine efficiency in run-of-river hydropower
+    design under deep uncertainty. Water Resources Research
+    https://doi.org/10.1029/2023WR035713
+
+    q : relative flow Q/Qd
+
+    Valid approximation range:
+    q = 0.20 to 1.05
+    """
+    eta = (
+        -8.51102355 * q**4
+        + 24.85302040 * q**3
+        - 26.40793000 * q**2
+        + 12.07576883 * q
+        - 1.11440779
+    )
+    return eta.clip(0, 1)
+
+
+def francis_efficiency(q):
+    """
+    Capture dependency of the turbine efficiency on the inflow
+
+    Source: Yildiz, V., Brown, S. F., & Rougé, C. (2024). 
+    Importance of variable turbine efficiency in run-of-river hydropower
+    design under deep uncertainty. Water Resources Research
+    https://doi.org/10.1029/2023WR035713
+
+    q : relative flow Q/Qd
+
+    Valid approximation range:
+    q = 0.35 to 1.05
+    """
+    eta = (
+        -0.67586077 * q**4
+        + 1.97865116 * q**3
+        - 2.50076784 * q**2
+        + 1.79933762 * q
+        + 0.31234645
+    )
+    return eta.clip(0, 1)
+
+
+def pelton_efficiency(q):
+    """
+    Capture dependency of the turbine efficiency on the inflow
+
+    Source: Yildiz, V., Brown, S. F., & Rougé, C. (2024). 
+    Importance of variable turbine efficiency in run-of-river hydropower
+    design under deep uncertainty. Water Resources Research
+    https://doi.org/10.1029/2023WR035713
+
+    q : relative flow Q/Qd
+
+    Valid approximation range:
+    q = 0.10 to 1.05
+    """
+    eta = (
+        -5.64513659 * q**4
+        + 15.31207998 * q**3
+        - 14.86220905 * q**2
+        + 6.07135176 * q
+        + 0.01488507
+    )
+    return eta.clip(0, 1)
+
+
+def hydro_turbine_efficiency(q, turbine_type):
+    """
+    Capture dependency of the turbine efficiency on the inflow
+    for different turbine types
+
+    Source: Yildiz, V., Brown, S. F., & Rougé, C. (2024). 
+    Importance of variable turbine efficiency in run-of-river hydropower
+    design under deep uncertainty. Water Resources Research
+    https://doi.org/10.1029/2023WR035713
+
+    q : relative flow Q/Qd
+                   where Q is full flow and Qd is design flow
+    turbine_type : "Kaplan", "Francis", or "Pelton"
+    """
+
+    turbine_type = turbine_type.lower()
+
+    if turbine_type == "kaplan":
+        return kaplan_efficiency(q)
+
+    elif turbine_type == "francis":
+        return francis_efficiency(q)
+
+    elif turbine_type == "pelton":
+        return pelton_efficiency(q)
+
+    else:
+        raise ValueError("turbine_type must be 'Kaplan', 'Francis', or 'Pelton'")
+
 # ─────────────────────────────────────────────
 # Example usage
 # ─────────────────────────────────────────────
